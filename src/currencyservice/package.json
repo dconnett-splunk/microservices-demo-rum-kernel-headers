@@ -17,7 +17,7 @@
     "@opentelemetry/instrumentation-grpc": "~0.18.1",
     "@opentelemetry/node": "~0.18.1",
     "@opentelemetry/propagator-b3": "~0.18.1",
-    "@opentelemetry/tracing": "~0.18.1",
+    "@opentelemetry/tracing": "~0.23.0",
     "pino": "^5.17.0"
   },
   "devDependencies": {
