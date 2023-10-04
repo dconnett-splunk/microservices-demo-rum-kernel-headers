@@ -59,7 +59,7 @@ six==1.15.0
     #   geventhttpclient
 typing-extensions==3.10.0.2
     # via locust
-urllib3==1.26.7
+urllib3==1.26.17
     # via
     #   -r requirements.in
     #   requests
