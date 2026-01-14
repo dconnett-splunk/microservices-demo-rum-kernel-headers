@@ -59,11 +59,11 @@ six==1.15.0
     #   geventhttpclient
 typing-extensions==3.10.0.2
     # via locust
-urllib3==1.26.7
+urllib3==2.6.3
     # via
     #   -r requirements.in
     #   requests
-werkzeug==2.0.1
+werkzeug==3.1.5
     # via
     #   flask
     #   locust
