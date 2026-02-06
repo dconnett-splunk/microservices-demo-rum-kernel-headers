@@ -52,7 +52,7 @@ opentelemetry-sdk==0.12b0
     #   -r requirements.in
     #   opentelemetry-exporter-zipkin
     #   opentelemetry-instrumentation-grpc
-protobuf==3.13.0
+protobuf==5.29.6
     # via grpcio-health-checking
 python-json-logger==0.1.11
     # via -r requirements.in
